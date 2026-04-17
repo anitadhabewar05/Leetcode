@@ -2,7 +2,7 @@ class Solution {
     public boolean backspaceCompare(String s, String t) {
         char[] stack1 = new char[s.length()];
         int top1 = -1;
-
+        //for s
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
@@ -13,7 +13,7 @@ class Solution {
             }
         }
 
-        // process t
+        //for t
         char[] stack2 = new char[t.length()];
         int top2 = -1;
 

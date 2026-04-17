@@ -1,28 +1,39 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        String str1 = process(s);
-        String str2 = process(t);
+        char[] stack1 = new char[s.length()];
+        int top1 = -1;
 
-        return str1.equals(str2);
-    }
-
-    public String process(String str) {
-        char[] stack = new char[str.length()];
-        int top = -1;
-
-        for (int i = 0; i < str.length(); i++) {
-            char ch = str.charAt(i);
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
 
             if (ch != '#') {
-                top++;
-                stack[top] = ch;   // push
-            } else {
-                if (top != -1) {
-                    top--;         // pop
-                }
+                stack1[++top1] = ch;
+            } else if (top1 != -1) {
+                top1--;
             }
         }
 
-        return new String(stack, 0, top + 1);
+        // process t
+        char[] stack2 = new char[t.length()];
+        int top2 = -1;
+
+        for (int i = 0; i < t.length(); i++) {
+            char ch = t.charAt(i);
+
+            if (ch != '#') {
+                stack2[++top2] = ch;
+            } else if (top2 != -1) {
+                top2--;
+            }
+        }
+
+        String str1 = new String(stack1, 0, top1 + 1);
+        String str2 = new String(stack2, 0, top2 + 1);
+
+        if (str1.equals(str2)) {
+            return true;
+        } else {
+            return false;
+        }
     }
 }

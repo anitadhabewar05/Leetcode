@@ -1,24 +1,18 @@
 class MyStack {
-        Queue<Integer> q1;
-        Queue<Integer> q2;
+       private Queue<Integer> q1;
     public MyStack() {
         
-        q1 = new LinkedList<>();
-        q2 = new LinkedList<>();
+        q1 = new ArrayDeque<>();
+        
     }
-    
     public void push(int x) {
-        q2.add(x);
+        q1.add(x);
 
         //move all from q1 to q2
-        while (!q1.isEmpty()) {
-            q2.add(q1.remove());
+        for(int i=0; i<q1.size()-1; i++)
+        {
+            q1.add(q1.remove());
         }
-
-        // swap q1 and q2
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
     }
     
     public int pop() {

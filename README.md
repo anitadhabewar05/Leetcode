@@ -8,6 +8,7 @@
 | [0485-max-consecutive-ones](https://github.com/anitadhabewar05/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0518-coin-change-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anitadhabewar05/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

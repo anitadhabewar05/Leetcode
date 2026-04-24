@@ -46,6 +46,7 @@
 | [1108-defanging-an-ip-address](https://github.com/anitadhabewar05/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3110-score-of-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

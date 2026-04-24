@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anitadhabewar05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anitadhabewar05/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/anitadhabewar05/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anitadhabewar05/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -54,6 +55,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/anitadhabewar05/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/anitadhabewar05/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/anitadhabewar05/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anitadhabewar05/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
 ## Design
@@ -68,6 +70,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anitadhabewar05/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
 ## Queue

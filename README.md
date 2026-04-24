@@ -15,6 +15,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anitadhabewar05/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anitadhabewar05/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anitadhabewar05/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anitadhabewar05/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -38,6 +38,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/anitadhabewar05/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/anitadhabewar05/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -48,6 +49,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/anitadhabewar05/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anitadhabewar05/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/anitadhabewar05/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/anitadhabewar05/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |

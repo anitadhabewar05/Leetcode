@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anitadhabewar05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/anitadhabewar05/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3110-score-of-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/anitadhabewar05/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

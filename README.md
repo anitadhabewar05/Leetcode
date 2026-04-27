@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anitadhabewar05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anitadhabewar05/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/anitadhabewar05/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anitadhabewar05/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/anitadhabewar05/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -30,6 +31,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anitadhabewar05/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -85,4 +87,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anitadhabewar05/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anitadhabewar05/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->

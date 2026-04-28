@@ -8,6 +8,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/anitadhabewar05/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/anitadhabewar05/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anitadhabewar05/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0456-132-pattern](https://github.com/anitadhabewar05/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/anitadhabewar05/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -65,6 +66,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/anitadhabewar05/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/anitadhabewar05/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/anitadhabewar05/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0456-132-pattern](https://github.com/anitadhabewar05/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anitadhabewar05/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -80,6 +82,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/anitadhabewar05/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anitadhabewar05/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -91,4 +94,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anitadhabewar05/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0456-132-pattern](https://github.com/anitadhabewar05/Leetcode/tree/main/0456-132-pattern/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/anitadhabewar05/Leetcode/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->

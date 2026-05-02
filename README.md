@@ -53,6 +53,7 @@
 | [0071-simplify-path](https://github.com/anitadhabewar05/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/anitadhabewar05/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0402-remove-k-digits](https://github.com/anitadhabewar05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0709-to-lower-case](https://github.com/anitadhabewar05/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anitadhabewar05/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |

@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anitadhabewar05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0242-valid-anagram](https://github.com/anitadhabewar05/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anitadhabewar05/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Matrix
@@ -50,6 +51,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/anitadhabewar05/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/anitadhabewar05/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0242-valid-anagram](https://github.com/anitadhabewar05/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0402-remove-k-digits](https://github.com/anitadhabewar05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/anitadhabewar05/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -80,6 +82,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/anitadhabewar05/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |

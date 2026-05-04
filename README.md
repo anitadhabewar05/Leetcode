@@ -15,6 +15,7 @@
 | [0739-daily-temperatures](https://github.com/anitadhabewar05/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/anitadhabewar05/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anitadhabewar05/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -57,6 +58,7 @@
 | [0402-remove-k-digits](https://github.com/anitadhabewar05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0709-to-lower-case](https://github.com/anitadhabewar05/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anitadhabewar05/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1528-shuffle-string](https://github.com/anitadhabewar05/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3110-score-of-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/3110-score-of-a-string/) | Easy |

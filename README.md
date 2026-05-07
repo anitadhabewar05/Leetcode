@@ -20,6 +20,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anitadhabewar05/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/anitadhabewar05/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/anitadhabewar05/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/anitadhabewar05/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/anitadhabewar05/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

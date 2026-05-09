@@ -17,6 +17,7 @@
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/anitadhabewar05/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anitadhabewar05/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anitadhabewar05/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anitadhabewar05/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -62,6 +63,7 @@
 | [0709-to-lower-case](https://github.com/anitadhabewar05/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anitadhabewar05/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/anitadhabewar05/Leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anitadhabewar05/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anitadhabewar05/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anitadhabewar05/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3110-score-of-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
@@ -130,4 +132,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anitadhabewar05/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 <!---LeetCode Topics End-->

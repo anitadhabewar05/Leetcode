@@ -28,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anitadhabewar05/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anitadhabewar05/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/anitadhabewar05/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anitadhabewar05/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Matrix
@@ -49,6 +50,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/anitadhabewar05/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## String
@@ -59,6 +61,7 @@
 | [0058-length-of-last-word](https://github.com/anitadhabewar05/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/anitadhabewar05/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/anitadhabewar05/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/anitadhabewar05/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0709-to-lower-case](https://github.com/anitadhabewar05/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/anitadhabewar05/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -107,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anitadhabewar05/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anitadhabewar05/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

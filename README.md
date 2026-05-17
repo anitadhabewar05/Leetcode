@@ -14,6 +14,7 @@
 | [0518-coin-change-ii](https://github.com/anitadhabewar05/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anitadhabewar05/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/anitadhabewar05/Leetcode/tree/main/0853-car-fleet/) | Medium |
+| [1306-jump-game-iii](https://github.com/anitadhabewar05/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/anitadhabewar05/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/anitadhabewar05/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anitadhabewar05/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -140,4 +141,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anitadhabewar05/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/anitadhabewar05/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/anitadhabewar05/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
